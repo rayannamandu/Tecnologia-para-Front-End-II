@@ -23,4 +23,4 @@
             alert("A maior altura é: "+maioralt); 
             alert("A menor altura é: "+menoralt);
             alert("A média das mulheres é: "+mediamulh);
-            alert("O número de homens é: "+contahom);
+            alert("O número de mulheres é: "+contamulh);
