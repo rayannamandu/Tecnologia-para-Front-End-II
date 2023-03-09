@@ -24,3 +24,9 @@
             alert("A menor altura é: "+menoralt);
             alert("A média dos homens é: "+mediahom);
             alert("O número de mulheres é: "+contamulh);
+
+            console.log("A maior altura é: "+maioralt);
+            console.log("A menor altura é: "+menoralt);
+            console.log("A média dos homens é: "+mediahom);
+            console.log("O número de mulheres é: "+contamulh);
+
